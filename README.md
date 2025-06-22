@@ -8,8 +8,7 @@ To Run this
 3. install all the modules like django,sqlparse==0.3.1, xhtml2pdf  etc
 4. then migrate  ->  python manage.py makemigrations  then  python manage.py migrate
 5. Run it python manage.py runserver                                         
-
-
+your project will starts.........................
 
 
 
